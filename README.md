@@ -183,15 +183,16 @@ A 10-slide executive summary prepared for AtliQ Media:
 | Slide | Title |
 |---|---|
 | 1 | Tamil Nadu 2026 Election: A Data Story |
-| 2 | Methodology |
-| 3 | Statewide Snapshot |
-| 4 | Regional voting patterns diverged sharply across Tamil Nadu |
-| 5 | Geographic Deep Dive (Chennai Metro · Central · Delta) |
-| 6 | A large share of constituencies changed hands in 2026 |
-| 7 | Flip Geography |
-| 8 | Many seats were decided by narrow margins |
-| 9 | Key Takeaways |
-| 10 | Closing |
+| 2 | Story Angle |
+| 3 | Methodology |
+| 4 | Statewide Overview |
+| 5 | Geographic Story |
+| 6 | Regional Deep Dive |
+| 7 | The Flip Story |
+| 8 | Flip Geography |
+| 9 | Margin Analysis |
+| 10 | Closest Contest |
+| 10 | Final Takeaway |
 
 ---
 
@@ -214,5 +215,5 @@ All data is sourced exclusively from the **Election Commission of India (ECI)** 
 
 ## 🙋 About
 
-Prepared by the **Pavithra CY, Aspiring Data Analyst** as part of the Tamil Nadu 2026 post-election analysis series.
+Prepared by the **Pavithra CY, Aspiring Data Analyst** for AtliQ Media · Election Analysis.
 
