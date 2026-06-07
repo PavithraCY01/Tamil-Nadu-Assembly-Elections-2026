@@ -172,7 +172,6 @@ The interactive dashboard is built on top of the Excel data and includes the fol
 | **Margin Analysis** | % Margin distribution bar chart, Closest contests table, Avg margin KPI cards (22.87K vs 16.78K) |
 
 **Tool:** Microsoft Power BI Desktop  
-**Data source:** `TN_Elections_2026.xlsx` (direct connection)
 
 ---
 
