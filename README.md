@@ -215,5 +215,5 @@ All data is sourced exclusively from the **Election Commission of India (ECI)** 
 
 ## 🙋 About
 
-Prepared by the **Pavithra CY, Aspiring Data Analyst** for AtliQ Media · Election Analysis.
+Prepared by the **Pavithra CY, Aspiring Data Analyst** for Resume Project Challenge, **CodeBasics**.
 
